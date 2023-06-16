@@ -18,3 +18,10 @@ $ python hello_world.py
 ```
 
 ### Chapter 2: Variables and Simple Data Types
+__The Zen of Python__  
+The Python community’s philosophy is contained in _“The Zen of Python”_ by Tim Peters.  
+To read it, enter `import this` into a python terminal 
+```
+$ python
+>>> import this
+```
