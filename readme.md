@@ -46,3 +46,5 @@ a _Python Enhancement Proposal_ (PEP). One of the oldest PEPs is PEP 8, which in
 See [PEP-8](https://peps.python.org/pep-0008/) to learn more.  
 
 ### Chapter 5: If Statements  
+
+### Chapter 6: Dictionaries  
