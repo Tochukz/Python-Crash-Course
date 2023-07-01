@@ -1,3 +1,4 @@
+# Nesting 1: Dictionaries in a list
 person_1 = {'name': 'Uche', 'city': 'Lagos'}
 person_2 = {'name': 'Chucks', 'city': 'Cape Town'}
 person_3 = {'name': 'Oluchi', 'city': 'Toronto'}
