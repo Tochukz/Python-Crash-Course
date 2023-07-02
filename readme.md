@@ -50,3 +50,5 @@ See [PEP-8](https://peps.python.org/pep-0008/) to learn more.
 ### Chapter 6: Dictionaries  
 #### Sets
 A set is a collection in which each item must be unique. Unlike lists and dictionaries, sets do not retain items in any specific order.  
+
+### Chapter 7: User Input and while Loops
