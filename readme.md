@@ -104,3 +104,10 @@ Push the merged changes to your forked repository on GitHub:
 ```
 $ git push origin master
 ```
+
+### Chapter 9: Classes
+Class properties are called _attributes_ in Python.  
+
+__The Python standard library__  
+[Python standard library](https://docs.python.org/3/library/index.html)  
+[Python module of the week](https://pymotw.com/3/)  
