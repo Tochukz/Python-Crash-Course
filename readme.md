@@ -80,6 +80,15 @@ be longer than 79 characters, press enter after the opening parenthesis on the d
 8. If your program or module has more than one function, you can separate each by two blank lines.  
 9. All import statements should be written at the beginning of a file. The only exception is if you use comments at the beginning of your file to describe the overall program.
 
+### Chapter 9: Classes
+Class properties are called _attributes_ in Python.  
+
+__The Python standard library__  
+[Python standard library](https://docs.python.org/3/library/index.html)  
+[Python module of the week](https://pymotw.com/3/)  
+
+### Chapter 10: Files and Exceptions
+
 
 ### Github Tips  
 __To sync a forked repository's master branch with the latest changes from the parent repository__  
@@ -105,9 +114,22 @@ Push the merged changes to your forked repository on GitHub:
 $ git push origin master
 ```
 
-### Chapter 9: Classes
-Class properties are called _attributes_ in Python.  
+### Python version manager
+Something there may need to have more than one version of Python installed on your system.  
+You ca use _Python version manager_ to achieve this.  
+__Install Python version manager__
+Install _pyenv_ using home brew  
+```bash
+$ brew update
+$ brew install pyenv
+$ pyenv --versioon
+```
 
-__The Python standard library__  
-[Python standard library](https://docs.python.org/3/library/index.html)  
-[Python module of the week](https://pymotw.com/3/)  
+__Install and switch version__   
+```bash
+$ pyenv install 2.7
+# Switch to version 2.7
+$ pyenv shell 2.7
+$ python --version
+```  
+[PyEnv Github](https://github.com/pyenv/pyenv)
